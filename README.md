@@ -9,7 +9,7 @@ Reading and writing to MIDI format is made possible by vishnubob's **python-midi
 ## Installation:
 Once the above requirement has been installed, midi-to-dataframe can be installed as follows:
 
-* `pip3 install git+https://github.com/TaylorPeer/midi-to-dataframe`
+* `pip3 install git+https://github.com/mmaarij/midi-to-dataframe.git`
 
 ## Usage
 
